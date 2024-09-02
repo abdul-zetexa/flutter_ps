@@ -29,21 +29,7 @@ Welcome to the **FlutterPS** technical assessment! This project is designed to e
 - **Objective:**  
   Evaluate your ability to create and reuse custom widgets while adhering to design and usability standards.
 
-### 2. State Management
-
-- **Task:**  
-  Implement state management for a to-do list application. The app should:
-  - Allow users to add new tasks.
-  - Mark tasks as completed.
-  - Delete tasks from the list.
-
-- **Requirements:**  
-  Use any state management approach you are comfortable with (e.g., Provider, Bloc, or any other). Ensure the state management solution is scalable and follows best practices. Implement a simple UI to interact with the to-do list.
-
-- **Objective:**  
-  Assess your understanding of state management in Flutter and your ability to implement it effectively.
-
-### 3. Integrate a REST API
+### 2. Integrate a REST API
 
 - **Task:**  
   Integrate a REST API to fetch a list of items (e.g., products, posts, or users) and display them in a scrollable list view. Implement the following features:
@@ -57,7 +43,7 @@ Welcome to the **FlutterPS** technical assessment! This project is designed to e
 - **Objective:**  
   Test your ability to work with APIs, handle asynchronous operations, and manage UI states based on dynamic data.
 
-### 4. Implement Navigation and Routing
+### 3. Implement Navigation and Routing
 
 - **Task:**  
   Add multiple screens to the application:
